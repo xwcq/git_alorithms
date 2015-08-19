@@ -1,6 +1,6 @@
 
 public class MergeSort {
-	
+        // don't know what to do
 	private static Comparable[] aux;
 	
 	private MergeSort() {}
