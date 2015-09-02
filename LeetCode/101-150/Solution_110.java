@@ -61,6 +61,7 @@ public class Solution_110 {
 		if (isBalanced(root)) {
 			System.out.println(1);
 		}
+		System.out.println(~1);
 	}
 }
 
